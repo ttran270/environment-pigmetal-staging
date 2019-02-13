@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.89
 - name: integral-life
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.4
+  version: 1.0.5
